@@ -758,7 +758,7 @@ header section:last-child .navigation-bar nav ul li:hover a {
   padding: 10px 0;
 }
 
-@media screen and (min-width: 780px) {
+@media screen and (min-width: 980px) {
   header .navigation-container {
     width: 80%;
     max-width: 1400px;
@@ -2003,6 +2003,9 @@ footer .footer-copyright div a {
   footer .content-form .enquiry-container .information-details {
     width: 33.33333%;
   }
+  footer .content-form .enquiry-container .fbwidget-container .fb-widget {
+    text-align: left;
+  }
   footer .content-form .enquiry-container .fbwidget-container #site-tags .tags-box .site-sense {
     max-width: 320px;
   }
@@ -2066,4 +2069,3 @@ a {
   margin-left: -8px;
   margin-top: -8px;
 }
-
